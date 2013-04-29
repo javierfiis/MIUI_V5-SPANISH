@@ -93,8 +93,7 @@
   <string name="fw_no_effect">"El modo no molestar esta deshabilitado.¿Desea continuar?"</string>
   <string name="fw_notes_hint">Nombre （opcional）</string>
   <string name="fw_notification_settings">Notificaciones</string>
-  <string name="fw_on">Firewall habilitado</string>
-  <string name="fw_pattern_settings">Configuración del firewall</string>
+  <string name="fw_on">Firewall habilitado</string>  
   <string name="fw_period">Establecer período</string>
   <string name="fw_restore_ms">Volver a SMS</string>
   <string name="fw_set_keyword">Establecer palabras clave</string>

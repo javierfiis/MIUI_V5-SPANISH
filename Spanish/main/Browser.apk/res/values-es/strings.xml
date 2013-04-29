@@ -24,8 +24,7 @@
   <string name="account_chooser_dialog_title">Seleccionar cuenta</string>
   <string name="action">Acceder</string>
   <string name="add_bookmark">Añadir a marcadores</string>
-  <string name="add_bookmark_short">Añadir</string>
-  <string name="add_bookmark_to_home_screen">Añadir al escritorio</string>
+  <string name="add_bookmark_short">Añadir</string>  
   <string name="add_folder">Añadir carpeta</string>
   <string name="add_new_bookmark">Añadir marcador</string>
   <string name="add_to_bookmarks_menu_option">Marcadores</string>
@@ -187,7 +186,6 @@
   <string name="import_bookmarks_wizard_next">Siguiente</string>
   <string name="import_bookmarks_wizard_previous">Anterior</string>
   <string name="importing_favorite_files">Importando datos...</string>
-  <string name="instant_base">http://www.google.com/webhp?client={CID}&amp;source=android-instant&amp;ion=1</string>
   <string name="instant_search_label">Google con Instant (experimental)</string>
   <string name="is_first_history_item">Es el primer historial</string>
   <string name="is_first_tab">Es la primera pestaña</string>
@@ -201,7 +199,6 @@
   <string name="loading_video">Cargando vídeo...</string>
   <string name="local_bookmarks">Marcadores locales</string>
   <string name="location">Dirección</string>
-  <string name="manage_feature_permissions">Gestionar permisos</string>
   <string name="max_tabs_warning">No hay más pestañas disponibles.</string>
   <string name="menu_disable_night_mode">Desactivar modo noche</string>
   <string name="menu_enable_night_mode">Activar modo noche</string>
@@ -210,8 +207,6 @@
   <string name="menu_save_snapshot">Disponible sin conexión</string>
   <string name="menu_share_url">Compartir</string>
   <string name="menu_view_download">Descargas</string>
-  <string name="miui_yellowpage_category">Categoria</string>
-  <string name="miui_yellowpage_site">Sitio</string>
   <string name="move_to_up_folder">Mover arriba</string>
   <string name="multi_select_title">Seleccionado(s) %1$s archivo(s)</string>
   <string name="name">Nombre</string>
@@ -366,7 +361,6 @@
   <string name="pref_zoom_on_double_tap">Zoom al tocar dos veces</string>
   <string name="preview">Vista previa</string>
   <string name="progress_dialog_setting_wallpaper">Estableciendo fondo de pantalla...</string>
-  <string name="readmodelist_bookmarks">_readinglist_in_database_</string>
   <string name="readmodelist_bookmarks_to_show">Reading List</string>
   <string name="recover">Recuperar</string>
   <string name="recover_from_crash">Continuar con la última sesión</string>

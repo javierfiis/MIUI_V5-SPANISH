@@ -8,9 +8,6 @@
     <string name="nickname">Apodo</string>
     <string name="username">Nombre de usuario</string>
     <string name="password">Pass</string>
-    <string name="account">Email</string>
-    <string name="account_hint_text">Introduzca su Email</string>
-    <string name="account_banner">"Acceso a la cuenta Xiaomi. Disfrute de MIUI y MiTalk"</string>
     <string name="new_account">Crear una cuenta</string>
     <string name="registered_account">Cuenta registrada</string>
     <string name="bad_username">Formato de nombre de usuario incorrecto</string>
@@ -20,11 +17,8 @@
     <string name="too_many_times">Registrado demasiadas veces</string>
     <string name="email_not_verified">El correo electrónico no ha sido verificado</string>
     <string name="terms_not_agreed">Debe estar de acuerdo con los términos MIUI</string>
-    <string name="account_deleted">Cuenta eliminada</string>
-    <string name="account_disabled">Cuenta deshabilitada</string>
     <string name="service_disabled">Servicio detenido</string>
     <string name="service_unavailable">Servicio no disponible</string>
-    <string name="network_error">Fallo de conexión de red</string>
     <string name="has_bound">Repita vinculante</string>
     <string name="nickname_exist">Nombre de usuario no disponible</string>
     <string name="has_nick">La cuenta ya tiene un nombre de usuario</string>
@@ -61,9 +55,6 @@
     <string name="settings_safetylegal_activity_unreachable">El teléfono no está conectado a un servicio de datos. Para ver esta información ahora, vaya a %s desde cualquier ordenador conectado a Internet.</string>
     <string name="account_expired_dialog_title">Cuenta caducada</string>
     <string name="account_expired_dialog_message">Su cuenta Xiaomi ha caducado, para acceder debe crear una cuenta nueva</string>
-    <string name="xiaomi_account">Cuenta Xiaomi</string>
-    <string name="xiaomi_remove_account_title">Eliminar cuenta Xiaomi</string>
-    <string name="xiaomi_remove_account_message">Eliminar esta cuenta hará imposible acceder a los datos de Xiaomi, esta seguro de querer eliminarla?</string>
     <string name="user_id">ID Xiaomi</string>
     <string name="user_detail">Mis datos</string>
     <string name="user_nickname">Nick</string>

@@ -66,8 +66,6 @@
     <string name="response_maybe">Quizás</string>
     <string name="response_no">No</string>
     <string name="event_info_organizer">Organizadorr:</string>
-    <string name="event_info_desc_more">Más</string>
-    <string name="event_info_desc_less">Menos</string>
     <string name="event_info_reminders_label">Recordatorios</string>
     <string name="agenda_today">HOY, %1$s</string>
     <string name="agenda_yesterday">AYER, %1$s</string>
@@ -168,6 +166,4 @@
     <string name="birthday_event_description_detail_leap" />
     <string name="birthday_event_description_detail_smart" />
     <string name="more_string">%1$s más...</string>
-    <string name="chips_waiting_for_directory_result">Esperando más contactos</string>
-    <string name="copy">Copiar dirección de correo electrónico</string>
 </resources>
