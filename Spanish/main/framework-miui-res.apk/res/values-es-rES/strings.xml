@@ -5,7 +5,7 @@
   <string name="activating">Activando...</string>
   <string name="alarm_message_12_hour_formate">h:mm aa</string>
   <string name="alwaysUsePrompt">Establecer como predeterminado (no solicitará la próxima vez)</string>
-  <string name="all_resources">Todo</string>
+  <string name="android_byteShort">@android:string/byteShort</string>
   <string name="android_capital_off">@android:string/capital_off</string>
     <string name="android_capital_on">@android:string/capital_on</string>
     <string name="android_common_last_name_prefixes">@android:string/common_last_name_prefixes</string>
@@ -69,7 +69,7 @@
     <string name="check_phone_io_error">Error de red</string>
   <string name="childrens_day">Día del niño</string>
   <string name="chinese_youth_day">Día de la juventud</string>
-  <string name="christmas_dad">Navidad</string>
+  <string name="christmas_day">Navidad</string>
   <string name="clear_and_bright">Limpio y claro</string>
   <string name="cold_dews">rocio frio</string>
   <string name="country_name_ac">AC</string>
@@ -317,7 +317,6 @@
     <string name="experimental_validate_thanks">Gracias!</string>
     <string name="experimental_validate_username">Xiaomi ID</string>
     <string name="experimental_validate_warning">todas su exploraciones ayudara a MIUI ser mejor!</string>
-  <string name="find_device_sim_change_instructions">"Tu dispositivo ha sido bloqueado. Por favor inserta la tarjeta SIM o intruce la contraseña de tu cuenta Xiaomi"</string>
     <string name="find_device_sim_change_instructions">"Su dispositivo ha sido bloqueada
 Por favor, introduzca la tarjeta SIM, o introducir su contraseña de la cuenta Xiaomi"</string>
     <string name="find_device_sim_change_instructions_no_network">"Su dispositivo ha sido bloqueada
@@ -446,6 +445,6 @@ Memoria disponible actual es %2$s"</string>
   <string name="user_agreement3">" y "</string>
   <string name="user_agreement4">Política de privacidad</string>
   <string name="user_agreement5">，Pulsando OK acuerda y se compromete a cumplir con lo arriba mencionado, para salir pulse Cancelar.</string>
-  <string name="date_day">E</string>
+  
   <string name="lock_screen_date">MMMM, EEEE d</string>
 </resources>
