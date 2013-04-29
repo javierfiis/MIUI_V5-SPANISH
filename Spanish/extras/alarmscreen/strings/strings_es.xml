@@ -1,0 +1,4 @@
+<strings>
+    <string name="slider_text" value="deslice a la derecha para cerrar" />
+    <string name="snooze_message" value="Posponer durante %d min." />
+</strings>
